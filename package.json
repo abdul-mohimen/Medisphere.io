@@ -1,0 +1,14 @@
+{
+  "name": "medisphere-healthcare-platform",
+  "version": "1.0.0",
+  "description": "Premium Healthcare Management Platform",
+  "private": true,
+  "scripts": {
+    "dev": "echo 'No build process configured - using CDN assets'",
+    "build": "echo 'No build process configured - using CDN assets'"
+  },
+  "keywords": ["healthcare", "medical", "platform"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {}
+}

@@ -1,0 +1,17 @@
+.env
+vendor/
+node_modules/
+.DS_Store
+*.log
+storage/logs/*
+!storage/logs/.gitkeep
+public/uploads/*
+!public/uploads/.gitkeep
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swo
+.phpunit.result.cache
+storage/tools/
+test-results/
