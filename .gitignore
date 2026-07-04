@@ -15,3 +15,36 @@ public/uploads/*
 .phpunit.result.cache
 storage/tools/
 test-results/
+# Environment
+.env
+
+# Local config
+config/config.php
+config/env.php
+
+# Composer
+/vendor
+
+# Node
+/node_modules
+
+# Logs & cache
+*.log
+/cache
+
+# Uploaded files
+/storage/uploads
+
+# Development tools
+/storage/tools
+
+# Test artifacts
+/test-results
+
+.env
+config/config.php
+config/env.php
+storage/tools/
+test-results/
+node_modules/
+vendor/
